@@ -1,0 +1,4 @@
+// String
+
+const name1 = 'jeff';
+const name2 = new String
